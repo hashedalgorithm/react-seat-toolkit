@@ -1,5 +1,5 @@
 import { toast } from "sonner";
-import SeatToolkit from "@/index";
+import SeatToolkit from "@/seat-toolkit";
 import { STKMode } from "../_utils";
 import { options } from "../options";
 
